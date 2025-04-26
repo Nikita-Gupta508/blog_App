@@ -45,7 +45,7 @@ const Navbar = () => {
     }, []) 
 //bg-background/50 
     return (
-        <nav className="  bg-slate-100   p-4 sticky top-0 backdrop-blur border-b z-10">
+        <nav className="  bg-slate-400   p-4 sticky top-0 backdrop-blur border-b z-10">
   
           <LoadingBar
         color='#933ce6'
